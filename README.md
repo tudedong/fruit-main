@@ -1,2 +1,2 @@
-# kitchen-main
-厨具商城
+# fruit-main
+水果商城
